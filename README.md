@@ -39,10 +39,13 @@ Navigate into the repo:
 cd eniac-magist-analysis
 Open the sql/ folder to explore the queries.
 Visit the Tableau dashboard (link above) to see the main findings.
+
 📌 Key Findings
 Magist lacks experience in tech products: most sales are from categories like home, fashion, and small goods.
 Delivery delays are significant: average delivery times are well above Eniac’s expectations.
+
 📢 Conclusion: Magist is not an ideal partner for Eniac’s expansion into Brazil.
+
 👨‍💻 Author
 Hasan Erdin
 Connect with me on [LinkedIn](https://www.linkedin.com/in/hasan-erdin-5827a3139/)
