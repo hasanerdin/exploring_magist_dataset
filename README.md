@@ -23,11 +23,9 @@ The Tableau dashboard provides clear visual insights on:
 ## 🗂 Repository Structure
 
 .
-├── sql/
+├── magist.sql # Queries related to basic understandings about magist company
 
-│ ├── magist.sql # Queries related to basic understandings about magist company
-
-│ └── business_questions_about_magist.sql # Queries related to deeper questions about company
+└── business_questions_about_magist.sql # Queries related to deeper questions about company
 
 └── README.md # Project documentation
 
@@ -40,7 +38,7 @@ The Tableau dashboard provides clear visual insights on:
    git clone https://github.com/YOUR_USERNAME/eniac-magist-analysis.git
 Navigate into the repo:
 cd eniac-magist-analysis
-Open the sql/ folder to explore the queries.
+Open the sql files to explore the queries.
 Visit the Tableau dashboard (link above) to see the main findings.
 
 📌 Key Findings
