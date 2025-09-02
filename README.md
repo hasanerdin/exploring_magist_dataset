@@ -24,8 +24,11 @@ The Tableau dashboard provides clear visual insights on:
 
 .
 ├── sql/
+
 │ ├── magist.sql # Queries related to basic understandings about magist company
+
 │ └── business_questions_about_magist.sql # Queries related to deeper questions about company
+
 └── README.md # Project documentation
 
 ---
