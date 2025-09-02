@@ -35,7 +35,7 @@ The Tableau dashboard provides clear visual insights on:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/eniac-magist-analysis.git
+   git clone https://github.com/hasanerdin/eniac-magist-analysis.git
 Navigate into the repo:
 cd eniac-magist-analysis
 Open the sql files to explore the queries.
